@@ -4,6 +4,9 @@ Na verificação final, a rodada conjunta de navegador apresentou requisições 
 O servidor de teste passou a usar `--no-access-log`; os dois fluxos passaram novamente.
 Também foi verificada a recusa de schema desconhecido sem substituição do banco.
 
+Primeiro CI: a imagem Docker compilou, mas o smoke no runner falhou por Python anterior a 3.14
+e sintaxe de exceções. O job de container passou a fixar Python 3.14; resultado final no Actions.
+
 ## 2026-10-02 — Primeira versão funcional
 
 - Aplicação de portfólio stockflow com API Python, React, SQLite, dados sintéticos e documentação de requisitos.
