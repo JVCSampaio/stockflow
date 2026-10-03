@@ -1,0 +1,6 @@
+﻿id,product_id,kind,quantity,unit_cost_cents,balance_after,note,idempotency_key,created_at,sku,name
+1,1,in,12,84990,12,Saldo inicial sintético.,seed-MON-24,2026-10-03T00:53:13+00:00,MON-24,Monitor IPS 24 polegadas
+2,2,in,4,8990,4,Saldo inicial sintético.,seed-TEC-USB,2026-10-03T00:53:13+00:00,TEC-USB,Teclado USB compacto
+3,3,in,28,5990,28,Saldo inicial sintético.,seed-MOU-WL,2026-10-03T00:53:13+00:00,MOU-WL,Mouse sem fio
+4,4,in,14,1890,14,Saldo inicial sintético.,seed-CAB-CAT6,2026-10-03T00:53:13+00:00,CAB-CAT6,Cabo de rede CAT6 · 2m
+5,5,in,42,2490,42,Saldo inicial sintético.,seed-RES-A4,2026-10-03T00:53:13+00:00,RES-A4,Resma A4 · 500 folhas

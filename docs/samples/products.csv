@@ -1,0 +1,7 @@
+﻿id,sku,name,category,unit_cost_cents,reorder_point,quantity,created_at
+1,MON-24,Monitor IPS 24 polegadas,Hardware,84990,5,12,2026-10-03T00:53:13+00:00
+2,TEC-USB,Teclado USB compacto,Periféricos,8990,10,4,2026-10-03T00:53:13+00:00
+3,MOU-WL,Mouse sem fio,Periféricos,5990,10,28,2026-10-03T00:53:13+00:00
+4,CAB-CAT6,Cabo de rede CAT6 · 2m,Infraestrutura,1890,20,14,2026-10-03T00:53:13+00:00
+5,RES-A4,Resma A4 · 500 folhas,Papelaria,2490,15,42,2026-10-03T00:53:13+00:00
+6,SSD-512,SSD NVMe 512 GB,Hardware,22990,6,0,2026-10-03T00:53:13+00:00
